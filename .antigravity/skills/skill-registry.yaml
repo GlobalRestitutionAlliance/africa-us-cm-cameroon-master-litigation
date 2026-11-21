@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: cameroonan-restitution-roadmap-and-qsf-trust-execution
-  name: Cameroonan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/cameroonan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cm_001
+    name: Cameroon Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_002
+    name: Cameroon Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_003
+    name: Cameroon Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_004
+    name: Cameroon Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_005
+    name: Cameroon Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_006
+    name: Cameroon Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_007
+    name: Cameroon Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_008
+    name: Cameroon Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_009
+    name: Cameroon Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_010
+    name: Cameroon Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_011
+    name: Cameroon Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_012
+    name: Cameroon Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_013
+    name: Cameroon Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_014
+    name: Cameroon Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_015
+    name: Cameroon Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_016
+    name: Cameroon Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_017
+    name: Cameroon Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_018
+    name: Cameroon Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_019
+    name: Cameroon Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_020
+    name: Cameroon Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_021
+    name: Cameroon Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_022
+    name: Cameroon Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_023
+    name: Cameroon Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_024
+    name: Cameroon Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_025
+    name: Cameroon Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_026
+    name: Cameroon Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_027
+    name: Cameroon Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_028
+    name: Cameroon Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_029
+    name: Cameroon Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_030
+    name: Cameroon Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_031
+    name: Cameroon Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_032
+    name: Cameroon Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_033
+    name: Cameroon Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_034
+    name: Cameroon Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_035
+    name: Cameroon Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_036
+    name: Cameroon Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_037
+    name: Cameroon Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_038
+    name: Cameroon Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_039
+    name: Cameroon Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_040
+    name: Cameroon Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_041
+    name: Cameroon Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_042
+    name: Cameroon Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_043
+    name: Cameroon Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_044
+    name: Cameroon Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_045
+    name: Cameroon Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_046
+    name: Cameroon Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_047
+    name: Cameroon Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_048
+    name: Cameroon Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_049
+    name: Cameroon Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_050
+    name: Cameroon Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_051
+    name: Cameroon Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_052
+    name: Cameroon Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_053
+    name: Cameroon Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_054
+    name: Cameroon Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_055
+    name: Cameroon Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_056
+    name: Cameroon Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_057
+    name: Cameroon Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_058
+    name: Cameroon Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_059
+    name: Cameroon Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_060
+    name: Cameroon Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_061
+    name: Cameroon Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_062
+    name: Cameroon Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_063
+    name: Cameroon Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_064
+    name: Cameroon Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_065
+    name: Cameroon Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_066
+    name: Cameroon Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_067
+    name: Cameroon Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_068
+    name: Cameroon Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_069
+    name: Cameroon Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_070
+    name: Cameroon Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_071
+    name: Cameroon Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_072
+    name: Cameroon Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_073
+    name: Cameroon Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_074
+    name: Cameroon Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_075
+    name: Cameroon Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_076
+    name: Cameroon Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_077
+    name: Cameroon Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_078
+    name: Cameroon Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_079
+    name: Cameroon Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_080
+    name: Cameroon Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_081
+    name: Cameroon Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_082
+    name: Cameroon Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_083
+    name: Cameroon Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_084
+    name: Cameroon Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_085
+    name: Cameroon Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_086
+    name: Cameroon Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_087
+    name: Cameroon Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_088
+    name: Cameroon Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_089
+    name: Cameroon Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_090
+    name: Cameroon Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_091
+    name: Cameroon Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_092
+    name: Cameroon Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_093
+    name: Cameroon Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_094
+    name: Cameroon Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_095
+    name: Cameroon Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_096
+    name: Cameroon Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_097
+    name: Cameroon Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_098
+    name: Cameroon Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_099
+    name: Cameroon Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_100
+    name: Cameroon Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_101
+    name: Cameroon Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_102
+    name: Cameroon Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_103
+    name: Cameroon Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_104
+    name: Cameroon Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_105
+    name: Cameroon Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_106
+    name: Cameroon Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_107
+    name: Cameroon Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_108
+    name: Cameroon Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_109
+    name: Cameroon Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_110
+    name: Cameroon Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_111
+    name: Cameroon Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_112
+    name: Cameroon Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_113
+    name: Cameroon Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_114
+    name: Cameroon Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_115
+    name: Cameroon Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_116
+    name: Cameroon Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_117
+    name: Cameroon Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_118
+    name: Cameroon Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_119
+    name: Cameroon Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_120
+    name: Cameroon Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_121
+    name: Cameroon Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_122
+    name: Cameroon Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_123
+    name: Cameroon Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_124
+    name: Cameroon Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_125
+    name: Cameroon Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_126
+    name: Cameroon Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_127
+    name: Cameroon Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_128
+    name: Cameroon Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_129
+    name: Cameroon Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_130
+    name: Cameroon Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_131
+    name: Cameroon Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_132
+    name: Cameroon Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_133
+    name: Cameroon Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_134
+    name: Cameroon Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_135
+    name: Cameroon Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_136
+    name: Cameroon Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_137
+    name: Cameroon Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_138
+    name: Cameroon Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_139
+    name: Cameroon Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_140
+    name: Cameroon Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_141
+    name: Cameroon Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_142
+    name: Cameroon Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_143
+    name: Cameroon Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_144
+    name: Cameroon Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_145
+    name: Cameroon Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_146
+    name: Cameroon Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_147
+    name: Cameroon Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_148
+    name: Cameroon Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_149
+    name: Cameroon Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_150
+    name: Cameroon Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_151
+    name: Cameroon Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_152
+    name: Cameroon Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_153
+    name: Cameroon Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_154
+    name: Cameroon Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_155
+    name: Cameroon Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_156
+    name: Cameroon Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_157
+    name: Cameroon Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_158
+    name: Cameroon Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_159
+    name: Cameroon Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_160
+    name: Cameroon Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_161
+    name: Cameroon Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_162
+    name: Cameroon Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_163
+    name: Cameroon Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_164
+    name: Cameroon Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_165
+    name: Cameroon Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_166
+    name: Cameroon Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_167
+    name: Cameroon Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_168
+    name: Cameroon Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_169
+    name: Cameroon Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_170
+    name: Cameroon Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_171
+    name: Cameroon Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_172
+    name: Cameroon Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_173
+    name: Cameroon Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_174
+    name: Cameroon Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_175
+    name: Cameroon Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_176
+    name: Cameroon Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_177
+    name: Cameroon Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_178
+    name: Cameroon Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_179
+    name: Cameroon Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_180
+    name: Cameroon Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_181
+    name: Cameroon Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_182
+    name: Cameroon Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_183
+    name: Cameroon Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_184
+    name: Cameroon Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_185
+    name: Cameroon Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_186
+    name: Cameroon Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_187
+    name: Cameroon Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_188
+    name: Cameroon Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_189
+    name: Cameroon Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_190
+    name: Cameroon Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_191
+    name: Cameroon Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_192
+    name: Cameroon Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_193
+    name: Cameroon Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_194
+    name: Cameroon Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_195
+    name: Cameroon Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_196
+    name: Cameroon Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_197
+    name: Cameroon Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_198
+    name: Cameroon Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_199
+    name: Cameroon Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_200
+    name: Cameroon Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_201
+    name: Cameroon Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_202
+    name: Cameroon Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_203
+    name: Cameroon Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_204
+    name: Cameroon Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_205
+    name: Cameroon Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_206
+    name: Cameroon Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_207
+    name: Cameroon Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_208
+    name: Cameroon Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_209
+    name: Cameroon Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_210
+    name: Cameroon Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_211
+    name: Cameroon Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_212
+    name: Cameroon Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_213
+    name: Cameroon Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_214
+    name: Cameroon Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_215
+    name: Cameroon Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_216
+    name: Cameroon Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_217
+    name: Cameroon Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_218
+    name: Cameroon Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_219
+    name: Cameroon Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_220
+    name: Cameroon Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_221
+    name: Cameroon Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_222
+    name: Cameroon Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_223
+    name: Cameroon Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_224
+    name: Cameroon Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_225
+    name: Cameroon Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_226
+    name: Cameroon Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_227
+    name: Cameroon Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_228
+    name: Cameroon Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_229
+    name: Cameroon Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_230
+    name: Cameroon Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_231
+    name: Cameroon Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_232
+    name: Cameroon Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_233
+    name: Cameroon Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_234
+    name: Cameroon Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_235
+    name: Cameroon Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_236
+    name: Cameroon Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_237
+    name: Cameroon Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_238
+    name: Cameroon Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_239
+    name: Cameroon Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_240
+    name: Cameroon Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_241
+    name: Cameroon Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_242
+    name: Cameroon Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_243
+    name: Cameroon Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_244
+    name: Cameroon Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_245
+    name: Cameroon Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_246
+    name: Cameroon Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_247
+    name: Cameroon Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_248
+    name: Cameroon Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_249
+    name: Cameroon Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_250
+    name: Cameroon Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_251
+    name: Cameroon Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cm_252
+    name: Cameroon Skill 252
+    status: ACTIVE_SCAFFOLD
