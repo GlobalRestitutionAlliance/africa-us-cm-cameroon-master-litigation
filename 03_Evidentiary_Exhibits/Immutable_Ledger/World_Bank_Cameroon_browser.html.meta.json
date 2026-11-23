@@ -1,0 +1,15 @@
+{
+  "url": "https://data.worldbank.org/country/cameroon",
+  "final_url": "https://data.worldbank.org/country/cameroon",
+  "title": "World Bank Cameroon",
+  "fetched_at": "2026-11-23T01:40:02.835245Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60013,
+  "sha256": "f10e7631aef7c1a256751b91e9e5bbf93a899b1c17b73b9a5d82cdf30ef21b1b",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

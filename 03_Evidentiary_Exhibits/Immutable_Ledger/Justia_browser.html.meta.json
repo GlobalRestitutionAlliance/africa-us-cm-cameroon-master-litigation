@@ -1,0 +1,15 @@
+{
+  "url": "https://www.justia.com/",
+  "final_url": "https://www.justia.com/",
+  "title": "Justia",
+  "fetched_at": "2026-11-23T01:40:02.836245Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60027,
+  "sha256": "51a5238f125576dc44cd66277b43f60056a297272ce4bb699fde11c9ae3512e6",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}

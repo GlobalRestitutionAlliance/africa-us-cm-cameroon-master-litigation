@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=cameroon+colonial+forced+labor",
+  "final_url": "https://www.loc.gov/item/?q=cameroon+colonial+forced+labor",
+  "title": "Library of Congress - Cameroon",
+  "fetched_at": "2026-11-23T01:40:02.656812Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60000,
+  "sha256": "35b3c7c903cbd13037ebf2905e1c7634706c458af038b0aca4a6ccee74ea784b",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_404_PENDING_RECAPTURE",
+  "note": "Browser capture is a 404/landing/not-found page; retained for provenance only. NOT substantive evidence until recaptured from an authoritative source."
+}

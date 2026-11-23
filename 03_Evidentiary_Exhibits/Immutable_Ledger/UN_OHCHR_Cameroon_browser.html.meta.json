@@ -1,0 +1,15 @@
+{
+  "url": "https://www.ohchr.org/en/countries/cameroon",
+  "final_url": "https://www.ohchr.org/en/countries/cameroon",
+  "title": "UN OHCHR Cameroon",
+  "fetched_at": "2026-11-23T01:39:26.962774Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60020,
+  "sha256": "83b399fe746a75a2f14fa9d1e698d96a4dded2e59b263c80ba2bf0fd0baf395e",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified."
+}
