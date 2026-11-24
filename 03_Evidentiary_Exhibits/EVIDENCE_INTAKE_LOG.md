@@ -35,24 +35,6 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
-| 2026-11-22 | UN_OHCHR_Cameroon_browser.html | https://www.ohchr.org/en/countries/cameroon | OpenCode/browser-fallback | 83b399fe746a75a2f14fa9d1e698d96a4dded2e59b263c80ba2bf0fd0baf395e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 630526479d94fee99f80654e69d584582c8107033e4970c01e84c70583c37989 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Library_of_Congress_-_Cameroon_browser.html | https://www.loc.gov/item/?q=cameroon+colonial+forced+labor | OpenCode/browser-fallback | 35b3c7c903cbd13037ebf2905e1c7634706c458af038b0aca4a6ccee74ea784b | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 022b64486d357f8f486171c6a164bbd5d44a1b1dae477181287926b3ac01c678 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | World_Bank_Cameroon_browser.html | https://data.worldbank.org/country/cameroon | OpenCode/browser-fallback | f10e7631aef7c1a256751b91e9e5bbf93a899b1c17b73b9a5d82cdf30ef21b1b | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | UNESCO_Slave_Route_browser.html | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/browser-fallback | 86fa38ae1c1d11e890e66b5020368e2f8b6a70c819edfdc4bc5657652012bde1 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 51a5238f125576dc44cd66277b43f60056a297272ce4bb699fde11c9ae3512e6 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
-| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 058de94b8c3d982953e842e4d9a60b1b1646050d235cbce5c9a7697077e74d07 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-rendered-outerHTML http_status=unknown_browser_outerhtml_capture; PENDING_LEGAL_REVIEW |
-
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
